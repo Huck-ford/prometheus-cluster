@@ -9,8 +9,6 @@ You can find the full tutorial from here--> [Kubernetes Monitoring setup Using P
 
 ## Other Manifest repos
 
-Kube State metrics manifests: https://github.com/devopscube/kube-state-metrics-configs
-
 Alert manager Manifests: https://github.com/bibinwilson/kubernetes-alert-manager
 
 Grafana manifests: https://github.com/bibinwilson/kubernetes-grafana
