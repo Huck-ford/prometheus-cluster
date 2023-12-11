@@ -9,8 +9,6 @@ You can find the full tutorial from here--> [Kubernetes Monitoring setup Using P
 
 ## Other Manifest repos
 
-Grafana manifests: https://github.com/bibinwilson/kubernetes-grafana
-
 Node Exporter manifests: https://github.com/bibinwilson/kubernetes-node-exporter
 
 
